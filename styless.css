@@ -1,0 +1,13 @@
+body {
+    background-image:
+    /* add the g at the end of .jpg */
+    url('https://variety.com/wp-content/uploads/2021/09/Drake-publicity3-2021.jpg?w=1000')
+;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+}
+table, th, td {
+    border: 1px solid red;
+    background-color: yellow;
+}
